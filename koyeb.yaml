@@ -1,6 +1,6 @@
-name: khan-md
+name: methu-md
 services:
-  - name: khan-md-service
+  - name: methu-md-service
     type: web
     ports:
       - 5000
