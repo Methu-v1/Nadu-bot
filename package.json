@@ -1,12 +1,12 @@
 {
-  "name": "KHAN-MD",
+  "name": "METHU-MD",
   "version": "4.0.0",
-  "description": "A WhatsApp Bot Created By JawadTechX",
+  "description": "A WhatsApp Bot Created By nadu",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KHAN-MD",
-    "stop": "pm2 stop KHAN-MD",
-    "restart": "pm2 restart KHAN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name METHU-MD",
+    "stop": "pm2 stop METHU-MD",
+    "restart": "pm2 restart METHU-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
